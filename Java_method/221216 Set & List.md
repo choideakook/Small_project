@@ -1,5 +1,6 @@
 # Set 과 List
-
+[ [Collections Framework 의 구성] ](https://github.com/choideakook/Learn_Java/blob/main/Java_basic/221217%20Collections%20Framework%20의%20구성.md)
+  
 ## ✏️ Set 과 List 의 특징
 
 - Collection 을 상속하고 있는 interface 임 (Class 아님)
@@ -89,3 +90,5 @@ arr1.removeAll(arr2);
 for (Integer i : arr1)
     System.out.print(i + " ");  // 0, 1, 2
 ```
+  
+[ [Collections Framework 의 구성] ](https://github.com/choideakook/Learn_Java/blob/main/Java_basic/221217%20Collections%20Framework%20의%20구성.md)  
