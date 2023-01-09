@@ -2,6 +2,8 @@
 <h1 align="center">🎨 Spring Boot Project</h1>
 <h5 align="center">공부한 내용을 바탕으로 스스로 만든 작은 프로젝트를 모아놓은 저장소입니다. </h5>
 
+<br><br>
+
 ## 01 기초적인 쇼핑몰 만들기
 
 아주 기초적인 기능만 있는 쇼핑몰 만들기
